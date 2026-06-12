@@ -5,7 +5,7 @@ An end-to-end Power BI dashboard analyzing automotive sales data across 7 major 
 146 model variants, and 10 years of Norway market data (2007–2016).
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Data Sources
 | File | Description | Rows |
